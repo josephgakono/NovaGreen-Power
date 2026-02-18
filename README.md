@@ -3,8 +3,7 @@
 
 ##1.Project Brief
 >This project is a responsive professional landing page developed for a fictional renewable energy company called _NovaGreen Power_.
-<br>
-The objective of the project is to design and implement a structured, semantic HTML5 website that represents a real-world business.
+>The objective of the project is to design and implement a structured, semantic HTML5 website that represents a real-world business.
 
 ##2.Technologies Used
 >HTML5 – For semantic structure and content organization.<br>
